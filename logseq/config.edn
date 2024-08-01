@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["CyberspaceSecurity网络空间安全"]
 
  ;; Set flashcards interval.
  ;; Expected value:
